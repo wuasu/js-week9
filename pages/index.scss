@@ -940,3 +940,16 @@ body {
 }
 
 /*# sourceMappingURL=all.css.map */
+
+//自定義scss
+ .loadingWrap {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 100vw;
+ }
+
+.loadingImg {
+  width: 150px;
+  height: 150px;
+}
